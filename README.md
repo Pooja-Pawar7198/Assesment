@@ -28,4 +28,4 @@ The following are prerequisites for junit testing:-
 - Go to Eclipse IDE and  Click on NumToWord project -> src -> Right-Click on the  NumToWordTest.Java file (Where Test cases are wrote).
 - Right Click, and move down to Run As.
 - Select JUnit Test.
-This will execute our test cases and show Passed and Failure of Test cases(if Test cases are passed green bar indicates and for failure case Red bar indicates).
+  This will execute our test cases and show Passed and Failure of Test cases(if Test cases are passed green bar indicates and for failure case Red bar indicates).
