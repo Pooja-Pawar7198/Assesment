@@ -1,4 +1,4 @@
-# Assesment Task
+# Assessment Task
 
 ## Prerequisites for Java application
 The following are prerequisites for java application:-
